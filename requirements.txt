@@ -1,7 +1,15 @@
 numpy
 pandas
+matplotlib
 
 torch
 keras
 scipy
 transformers
+
+tensorflow
+
+clearml
+
+scikit-learn
+
