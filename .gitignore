@@ -15,6 +15,7 @@ develop-eggs/
 dist/
 eggs/
 lib/
+models/
 lib64/
 old/
 parts/
