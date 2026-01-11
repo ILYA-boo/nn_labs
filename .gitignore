@@ -70,3 +70,5 @@ docs/_build/
 !database_censor_hyperparams.json
 !tech_support_censor_hyperparams.json
 !configs/prompts/*.txt
+
+results/

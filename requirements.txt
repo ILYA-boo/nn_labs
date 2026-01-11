@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
+seaborn
 
 torch
 torchvision
@@ -15,3 +16,5 @@ scikit-learn
 peft
 datasets
 evaluate
+
+nltk
