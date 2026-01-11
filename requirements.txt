@@ -3,6 +3,7 @@ pandas
 matplotlib
 
 torch
+torchvision
 keras
 scipy
 transformers
@@ -13,3 +14,4 @@ scikit-learn
 
 peft
 datasets
+evaluate
